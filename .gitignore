@@ -1,0 +1,6 @@
+node_modules/
+public/components
+.DS_Store
+.tmp
+.sass-cache
+.idea
